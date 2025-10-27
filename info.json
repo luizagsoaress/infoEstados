@@ -1,0 +1,1192 @@
+{
+  "categorias":{
+    "Acre": {
+    "subtitulo": "Acre",
+    "descricao": {
+        "capital": "Capital: Rio Branco",
+        "governador": "Governador: GLADSON DE LIMA CAMELI",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 830.018 pessoas",
+            "populacao_estimada": "População estimada [2025]: 884.372 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 5,06 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 350.273 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,7",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,7",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 147.350 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 40.216 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 6.880 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 2.481 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 1.292 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 285 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.271 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 322 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 39,4 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 45,5 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.565 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 39.443 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,71",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 11.137.410.342,21 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 10.302.403.420,85 R$",
+            "numero_agencia": "Número de agências [2023]: 49 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 1.544.579.067,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 768.198.883,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 22 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 164.082,960 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 216,14 km²"
+        }
+    }
+    },
+    "Alagoas":  {
+        "subtitulo": "Alagoas",
+        "descricao": {
+        "capital": "Capital: Maceió",
+        "governador": "Governador: PAULO SURUAGY DO AMARAL DANTAS",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 3.127.683 pessoas",
+            "populacao_estimada": "População estimada [2025]: 3.220.848 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 112,38 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 1.095.144 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,7",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,8",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 439.014 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 120.878 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 21.340 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 7.619 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 2.105 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 404 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.331 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1.134 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 52,2 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 48,2 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.219 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 157.356 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,684",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 20.927.817.222,51 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 17.963.587.096,92 R$",
+            "numero_agencia": "Número de agências [2023]: 151 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 9.571.869.481,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 2.262.419.289,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 102 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 27.830,661 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 588,41 km²"
+        }
+    }
+    },
+    "Amapá": {
+    "subtitulo": "Amapá",
+        "descricao": {
+        "capital": "Capital: Macapá",
+        "governador": "Governador: CLÉCIO LUÍS VILHENA VIEIRA",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 733.759 pessoas ",
+            "populacao_estimada": "População estimada [2025]: 806.517 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 5,15 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 242.574 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 4,8",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,1",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 131.948 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 32.435 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 7.357 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 2.573 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 716 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 160 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.514 R$ ",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 295 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 49,1 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 42,0 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.998 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 53.597 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,688",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 11.249.572.238,02 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 8.505.172.844,49 R$",
+            "numero_agencia": "Número de agências [2023]: 40 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 1.635.496.172,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 594.448.117,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 16 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 142.253,880 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 151,22 km²"
+        }
+    }
+    },
+    "Amazonas":  {
+        "subtitulo": "Amazonas",
+        "descricao": {
+        "capital": "Capital: Manaus",
+        "governador": "Governador: WILSON MIRANDA LIMA",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 3.941.613 pessoas",
+            "populacao_estimada": "População estimada [2025]: 4.321.616 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 2,53 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 1.130.055 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,6",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,7",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 692.623 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 189.771 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 34.054 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 10.841 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 4.738 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 501 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.238 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1.602 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 41,4 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 37,9 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.526 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 146.959 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,7",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 33.030.751.885,07 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 30.029.370.828,75 R$",
+            "numero_agencia": "Número de agências [2023]: 191 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 14.945.635.731,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 2.446.554.299,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 62 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 1.558.706,127 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 669,46 km²"
+        }
+    }
+    },
+    "Bahia": {
+    "subtitulo": "Bahia",
+    "descricao": {
+        "capital": "Capital: Salvador",
+        "governador": "Governador: JERÔNIMO RODRIGUES SOUZA",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 14.141.626 pessoas",
+            "populacao_estimada": "População estimada [2025]: 14.870.907 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 25,04 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 5.120.353 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 4,9",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 3,9",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 1.865.574 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 517.073 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 102.040 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 30.622 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 12.355 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 1.551 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.366 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 6.638 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 40,1 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 43,9 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.177 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 557.886 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,691",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 80.290.524.858,16 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 77.868.037.416,52 R$",
+            "numero_agencia": "Número de agências [2023]: 825 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 51.302.336.652,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 9.552.068.592,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 417 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 564.760,429 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 2.814,29 km²"
+        }
+    }
+    },
+    "Ceará":  {
+        "subtitulo": "Ceará",
+        "descricao": {
+        "capital": "Capital: Fortaleza",
+        "governador": "Governador: ELMANO DE FREITAS DA COSTA",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 8.794.957 pessoas",
+            "populacao_estimada": "População estimada [2025]: 9.268.836 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 59,07 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 3.753.826 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 6,5",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 5,4",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 1.134.636 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 358.735 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 59.808 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 20.716 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 5.211 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 981 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.225 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 3.630 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 40,1 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 44,3 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.407 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 337.403 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,734",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 46.124.793.433,02 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 37.423.640.356,93 R$",
+            "numero_agencia": "Número de agências [2023]: 420 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 33.903.091.671,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 5.549.782.938,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 184 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 148.894,444 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 1.594,42 km²"
+        }
+    }
+    },
+    "Distrito Federal":  {
+        "subtitulo": "Distrito Federal",
+        "descricao": {
+        "capital": "Capital: Brasília",
+        "governador": "Governador: IBANEIS ROCHA BARROS JÚNIOR",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 2.817.381 pessoas",
+            "populacao_estimada": "População estimada [2025]: 2.996.899 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 489,06 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 2.083.081 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,9",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,6",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 361.438 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 111.437 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 18.152 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 5.988 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 861 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 264 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 3.444 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1410 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 72,5 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 69,2 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 4.889 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 256.782 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,814",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 36.479.338.564,35 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 33.897.143.557,68 R$",
+            "numero_agencia": "Número de agências [2023]: 345 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 221.270.874.208,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 13.029.550.768,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 1 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 5.760,783 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 590,22 km²"
+        }
+    }
+    },
+    "Espírito Santo":  {
+        "subtitulo": "Espírito Santo",
+        "descricao": {
+        "capital": "Capital: Vitória",
+        "governador": "Governador: JOSÉ RENATO CASAGRANDE",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 3.833.712 pessoas",
+            "populacao_estimada": "População estimada [2025]: 4.126.854 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 83,21 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 2.357.061 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 6,1",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 5,0",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 498.357 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 126.068 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 29.133 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 10.570 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 1.997 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 435 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.111 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1.824 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 61,8 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 59,2 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.460 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 146.129 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,771",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 34.291.544.903,51 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 25.098.719.258,87 R$",
+            "numero_agencia": "Número de agências [2023]: 345 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 32.372.215.412,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 3.862.315.829,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 78 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 46.074,448 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 730,73 km²"
+        }
+    }
+    },
+    "Goiás":  {
+        "subtitulo": "Goiás",
+        "descricao": {
+        "capital": "Capital: Goiânia",
+        "governador": "Governador: RONALDO RAMOS CAIADO",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 7.056.495 pessoas",
+            "populacao_estimada": "População estimada [2025]: 7.423.629 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 20,74 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 4.726.950 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 6,1",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 5,4",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 868.222 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 224.130 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 40.943 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 15.617 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 3.341 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 1.055 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.098 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 3.238 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 58,3 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 57,7 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.581 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 213.347 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,737",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 57.825.598.739,32 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 39.420.594.475,73 R$",
+            "numero_agencia": "Número de agências [2023]: 574 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 45.615.536.813,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 7.339.344.515,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 246 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 340.242,860 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 2.005,27 km²"
+        }
+    }
+    },
+    "Maranhão":  {
+        "subtitulo": "Maranhão",
+        "descricao": {
+        "capital": "Capital: São Luís",
+        "governador": "Governador: CARLOS ORLEANS BRANDÃO JÚNIOR",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 6.776.699 pessoas",
+            "populacao_estimada": "População estimada [2025]: 7.018.211 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 20,56 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 2.132.527 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,1",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,3",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 1.045.700 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 283.486 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 66.292 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 18.397 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 8.906 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 1.082 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.077 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 2.893 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 26,8 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 35,7 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.250 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 304.171 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,676",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 31.379.701.580,17 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 24.496.014.978,83 R$",
+            "numero_agencia": "Número de agências [2023]: 298 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 9.160.708.044,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 3.877.726.675,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 217 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 329.651,478 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 1.544,71 km²"
+        }
+    }
+    },
+    "Mato Grosso":  {
+        "subtitulo": "Mato Grosso",
+        "descricao": {
+        "capital": "Capital: Cuiabá",
+        "governador": "Governador: MAURO MENDES FERREIRA",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 3.658.649 pessoas",
+            "populacao_estimada": "População estimada [2025]: 3.893.659 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 4,05 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 2.695.548 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,8",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,8",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 507.089 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 137.021 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 26.039 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 11.685 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 1.970 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 687 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.276 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1.577 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 58,5 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 59,7 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.774 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 133.369 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,736",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 54.372.352.372,25 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 37.014.020.738,27 R$",
+            "numero_agencia": "Número de agências [2023]: 274 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 20.573.162.660,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 4.241.191.400,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 141 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 903.208,362km²",
+            "area_urbanizada": "Área urbanizada [2019]: 1.244,20 km²"
+        }
+    }
+    },
+    "Mato Grosso do Sul":  {
+        "subtitulo": "Mato Grosso do Sul",
+        "descricao": {
+        "capital": "Capital: Campo Grande ",
+        "governador": "Governador: EDUARDO CORREA RIEDEL",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 2.757.013 pessoas",
+            "populacao_estimada": "População estimada [2025]: 2.924.631 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 7,72 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 1.893.634 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,3",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,6",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 393.616 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 103.814 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 22.529 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 9.459 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 1.171 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 447 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.169 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1.336 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 60,5 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 61,5 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.949 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 120.035 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,742",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 33.155.489.102,00 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 24.358.822.183,06 R$",
+            "numero_agencia": "Número de agências [2023]: 221 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 11.750.471.564,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 2.622.876.341,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 79 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 357.142,010 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 841,85 km²"
+        }
+    }
+    },
+    "Minas Gerais":  {
+        "subtitulo": "Minas Gerais",
+        "descricao": {
+        "capital": "Capital: Belo Horizonte",
+        "governador": "Governador: ROMEU ZEMA NETO",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 20.539.989 pessoas",
+            "populacao_estimada": "População estimada [2025]: 21.393.441 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 35,02 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 13.481.706 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 6,1",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,7",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 2.343.279 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 716.517 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 145.365 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 69.294 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 10.214 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 3.316 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.001 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 10.309 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 58,9 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 61,9 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.489 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 794.060 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,774",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 138.168.422.501,96 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 110.408.991.645,56 R$",
+            "numero_agencia": "Número de agências [2023]: 1.579 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 163.877.819.307,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 21.490.523.692,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 853 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 586.513,984 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 4.699,69 km²"
+        }
+    }
+    },
+    "Paraná":  {
+        "subtitulo": "Paraná",
+        "descricao": {
+        "capital": "Capital: Curitiba",
+        "governador": "Governador: CARLOS ROBERTO MASSA JUNIOR",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 11.444.380 pessoas",
+            "populacao_estimada": "População estimada [2025]: 11.890.517 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 57,42 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 8.838.800 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 6,5",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 5,4",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 1.365.869 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 403.394 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 87.905 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 36.168 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 6.144 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 2.081 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.482 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 5.519 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 68,7 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 71,4 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.886 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 368.576 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,769",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 92.067.885.773,50 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 67.607.620.659,63 R$",
+            "numero_agencia": "Número de agências [2023]: 1.091 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 123.075.500.636,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 13.322.867.259,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 399 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 199.298,981 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 3.349,03 km²"
+        }
+    }
+    },
+    "Paraíba":  {
+        "subtitulo": "Paraíba",
+        "descricao": {
+        "capital": "Capital: João Pessoa",
+        "governador": "Governador: JOÃO AZEVEDO LINS FILHO",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 3.974.687 pessoas",
+            "populacao_estimada": "População estimada [2025]: 4.164.468 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 70,39 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 1.593.744 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,3",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,2",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 523.996 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 140.067 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 28.963 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 11.611 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 3.614 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 683 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.401 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1.744 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 39,3 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 45,5 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.587 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 225.409 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,698",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 23.462.797.714,09 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 17.883.420.827,99 R$",
+            "numero_agencia": "Número de agências [2023]: 210 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 9.811.080.343,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 2.399.526.425,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 223 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 56.467,242 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 680,32 km²"
+        }
+    }
+    },
+    "Pará":  {
+        "subtitulo": "Pará",
+        "descricao": {
+        "capital": "Capital: Belém",
+        "governador": "Governador: HELDER ZAHLUTH BARBALHO",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 8.120.131 pessoas",
+            "populacao_estimada": "População estimada [2025]: 8.711.196 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 6,52 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 2.627.090 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 4,8",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,2",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 1.331.723 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 324.258 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 60.224 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 13.789 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 9.006 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 1.007 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.344 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 3.515 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 32,5 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 37,7 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.596 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 352.909 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,69",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 52.747.856.526,44 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 43.981.234.831,53 R$",
+            "numero_agencia": "Número de agências [2023]: 505 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 25.302.478.197,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 5.294.904.670,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 144 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 1.245.828,829 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 1.745,77 km²"
+        }
+    }
+    },
+    "Pernambuco":  {
+        "subtitulo": "Pernambuco",
+        "descricao": {
+        "capital": "Capital: Recife",
+        "governador": "Governador: RAQUEL TEIXEIRA LYRA LUCENA",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 9.058.931 pessoas",
+            "populacao_estimada": "População estimada [2025]: 9.562.007 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 92,37 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 3.568.386 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,3",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,7",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 1.229.419 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 338.436 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 55.288 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 19.699 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 6.311 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 1.133 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.453 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 3.726 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 45,3 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 46,6 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.667 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 297.309 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,719",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 53.294.049.711,50 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 48.872.197.159,80 R$",
+            "numero_agencia": "Número de agências [2023]: 470 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 45.514.749.215,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 5.961.028.725,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 185 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 98.067,879 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 1.415,19 km²"
+        }
+    }
+    },
+    "Piauí":  {
+        "subtitulo": "Piauí",
+        "descricao": {
+        "capital": "Capital: Teresina",
+        "governador": "Governador: RAFAEL TAJRA FONTELES",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 3.271.199 pessoas",
+            "populacao_estimada": "População estimada [2025]: 3.384.547 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 12,99 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 1.449.658 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,7",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,9",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 439.111 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 128.628 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 27.167 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 11.331 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 2.862 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 652 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.350 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1.561 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 31,4 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 36,7 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.316 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 119.545 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,69",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 22.928.941.802,89 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 20.000.924.386,53 R$",
+            "numero_agencia": "Número de agências [2023]: 153 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 5.214.196.803,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 2.540.506.998,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 224 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 251.755,499 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 900,03 km²"
+        }
+    }
+    },
+    "Rio Grande do Norte":  {
+        "subtitulo": "Rio Grande do Norte",
+        "descricao": {
+        "capital": "Capital: Natal",
+        "governador": "Governador: MARIA DE FATIMA BEZERRA",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 3.302.729 pessoas",
+            "populacao_estimada": "População estimada [2025]: 3.455.236 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 62,54 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 1.554.064 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 4,8",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 3,7",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 437.133 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 127.507 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 21.725 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 7.813 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 2.482 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 477 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.616 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1.418 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 49,5 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 52,5 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.875 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 186.840 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,728",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 22.703.397.803,27 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 19.486.967.053,93 R$",
+            "numero_agencia": "Número de agências [2023]: 168 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 8.814.359.383,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 2.702.840.071,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 167 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 52.809,599 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 815,53 km²"
+        }
+    }
+    },
+    "Rio Grande do Sul":  {
+        "subtitulo": "Rio Grande do Sul",
+        "descricao": {
+        "capital": "Capital: Porto Alegre",
+        "governador": "Governador: EDUARDO FIGUEIREDO CAVALHEIRO LEITE",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 10.882.965 pessoas",
+            "populacao_estimada": "População estimada [2025]: 11.233.263 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 38,63 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 8.075.318 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,8",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,7",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 1.255.794 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 349.367 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 75.025 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 29.013 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 5.643 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 1.560 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.608 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 5.842 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 67,6 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 71,5 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.938 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 363.861 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,771",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 88.012.101.405,33 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 78.352.533.473,39 R$",
+            "numero_agencia": "Número de agências [2023]: 1.431 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 145.882.679.846,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 14.994.512.416,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 497 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 281.707,151 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 3.601,63 km²"
+        }
+    }
+    },
+    "Rio de Janeiro":  {
+        "subtitulo": "Rio de Janeiro",
+        "descricao": {
+        "capital": "Capital: Rio de Janeiro",
+        "governador": "Governador: CLÁUDIO BOMFIM DE CASTRO E SILVA",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 16.055.174 pessoas",
+            "populacao_estimada": "População estimada [2025]: 17.223.547 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 366,97 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 7.705.012 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,5",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,5",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 1.945.098 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 554.816 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 102.133 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 43.361 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 7.571 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 2.318 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.490 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 7.398 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 67,1 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 63,7 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 3.495 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 661.166 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,762",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 121.957.245.523,51 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 102.289.960.365,40 R$",
+            "numero_agencia": "Número de agências [2023]: 1.412 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 378.877.176.227,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 39.638.872.056,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 92 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 43.750,425 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 2.824,91 km²"
+        }
+    }
+    },
+    "Rondônia":  {
+        "subtitulo": "Rondônia",
+        "descricao": {
+        "capital": "Capital: Porto Velho",
+        "governador": "Governador: MARCOS JOSÉ ROCHA DOS SANTOS",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 1.581.196 pessoas",
+            "populacao_estimada": "População estimada [2025]: 1.751.950 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 6,65 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 1.197.221 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,5",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,7",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 227.246 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 71.396 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 10.256 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 3.998 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 923 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 257 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.717 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 803 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 55,7 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 56,2 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.317 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 115.212 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,7",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 17.855.762.489,37 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 13.605.769.496,5 R$",
+            "numero_agencia": "Número de agências [2023]: 124 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 6.192.771.269,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 1.474.613.914,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 52 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 237.754,171 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 532,23 km²"
+        }
+    }
+    },
+    "Roraima":  {
+        "subtitulo": "Roraima",
+        "descricao": {
+        "capital": "Capital: Boa Vista",
+        "governador": "Governador: ANTONIO OLIVERIO GARCIA DE ALMEIDA",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 636.707 pessoas",
+            "populacao_estimada": "População estimada [2025]: 738.772 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 2,85 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 275.703 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,4",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,2",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 111.096 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 27.821 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 5.728 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 2.431 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 666 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 178 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.538 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 223 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 51,1 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 46,8 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 3.115 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 53.547 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,699",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 9.036.922.178,96 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 7.473.220.866,93 R$",
+            "numero_agencia": "Número de agências [2023]: 25 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 1.277.640.825,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 1.015.580.579,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 15 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 223.505,385 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 229,30 km²"
+        }
+    }
+    },
+    "Santa Catarina":  {
+        "subtitulo": "Santa Catarina",
+        "descricao": {
+        "capital": "Capital: Florianópolis ",
+        "governador": "Governador: JORGINHO DOS SANTOS MELLO",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 7.610.361 pessoas",
+            "populacao_estimada": "População estimada [2025]: 8.187.029 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 79,50 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 6.189.405 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 6,2",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,9",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 941.272 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 267.040 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 51.565 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 21.859 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 3.129 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 1.041 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.601 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 3.508 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 75,6 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 78,2 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.803 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 245.358 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,792",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 61.440.241.790,39 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 43.927.295.658,78 R$",
+            "numero_agencia": "Número de agências [2023]: 682 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 49.122.874.493,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 8.724.873.172,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 295 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 95.730,690 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 2.530,00 km²"
+        }
+    }
+    },
+    "Sergipe":  {
+        "subtitulo": "Sergipe",
+        "descricao": {
+        "capital": "Capital: Aracaju",
+        "governador": "Governador: FÁBIO CRUZ MITIDIERI",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 2.210.004 pessoas",
+            "populacao_estimada": "População estimada [2025]: 2.299.425 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 100,74 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 951.523 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 4,9",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,0",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 305.930 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 83.603 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 15.887 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 5.488 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 1.612 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 317 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.473 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 1.000 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 41,7 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 45,9 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.548 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 79.299 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,702",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 17.151.927.623,32 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 13.470.989.190,76 R$",
+            "numero_agencia": "Número de agências [2023]: 175 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 8.391.780.897,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 2.505.383.886,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 75 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 21.938,188 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 461,84 km²"
+        }
+    }
+    },
+    "São Paulo":  {
+        "subtitulo": "São Paulo",
+        "descricao": {
+        "capital": "Capital: São Paulo",
+        "governador": "Governador: TARCISIO GOMES DE FREITAS",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 44.411.238 pessoas",
+            "populacao_estimada": "População estimada [2025]: 46.081.801 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 178,92 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 33.264.096 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 6,2",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 5,1",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 5.343.271 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 1.832.726 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 288.035 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 112.578 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 15.293escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 6.514 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 2.662 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 21.268 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 72,4 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 69,3 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 3.371 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 1.357.651 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,806",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 343.634.435.413,40 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 328.315.580.393,50 R$",
+            "numero_agencia": "Número de agências [2023]: 4.836 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 1.398.712.238.496,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 113.713.803.998,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 645 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 248.219,485 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 8.614,62 km²"
+        }
+    }
+    },
+    "Tocantins":  {
+        "subtitulo": "Tocantins",
+        "descricao": {
+        "capital": "Capital: Palmas",
+        "governador": "Governador: WANDERLEI BARBOSA CASTRO",
+        "populacao": {
+            "populacao_ultimo_censo": "Populacao no último censo[2022]: 1.511.460 pessoas",
+            "populacao_estimada": "População estimada [2025]: 1.586.859 pessoas",
+            "densidade_demografica":  "Densidade demográfica [2022]: 5,45 habitante por quilômetro quadrado",
+            "total_de_veiculos": "Total de veículos [2023]: 874.905 veículos"
+        },
+        "educacao": {
+            "ideb_anos_iniciais": "IDEB – Anos iniciais do ensino fundamental (Rede pública) [2023]: 5,4",
+            "ideb_anos_finais": "IDEB – Anos finais do ensino fundamental (Rede pública) [2023]: 4,8",
+            "matriculas_fundamental": "Matrículas no ensino fundamental [2023]: 222.404 matrículas",
+            "matriculas_ensino_medio": "Matrículas no ensino médio [2023]: 66.103 matrículas",
+            "docentes_ensino_fundamental": "Docentes no ensino fundamental [2023]: 12.691 docentes",
+            "docentes_ensino_medio": "Docentes no ensino médio [2023]: 5.932 docentes",
+            "numero_estabelecimento_fundamental": "Número de estabelecimentos de ensino fundamental [2023]: 1.217 escolas",
+            "numero_estabelecimento_medio": "Número de estabelecimentos de ensino médio [2023]: 368 escolas"
+        },
+        "trabalho_e_rendimento": {
+            "rendimento_nominal": "Rendimento nominal mensal domiciliar per capita [2024]: 1.737 R$",
+            "pessoas_16oumais_ocupadas_semana_referencia": "Pessoas de 16 anos ou mais ocupadas na semana de referência [2016]: 663 pessoas (×1000)",
+            "pessoas_16oumais_trabalho_formal": "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência [2016]: 42,7 %",
+            "pessoas_14oumais_ocupadas_semana_referencia": "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 47,5 %",
+            "rendimento_real_medio": " Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais [2022]: 2.706 R$",
+            "pessoal_ocupado_administracao": "Pessoal ocupado na Administração pública, defesa e seguridade social [2022]: 84.830 pessoas"
+        },
+        "economia": {
+            "indice_desenvolvimento_humano": "Índice de Desenvolvimento Humano (IDH) [2021]: 0,731",
+            "total_receita_bruta": "Total de receitas brutas realizadas [2023]: 20.836.869.522,78 R$",
+            "total_receita_empenhadas": "Total de despesas brutas empenhadas [2023]: 15.873.514.926,43 R$",
+            "numero_agencia": "Número de agências [2023]: 107 agências",
+            "depositos_prazo": "Depósitos a prazo [2023]: 4.841.811.485,00 R$",
+            "depositos_vista": "Depósitos à vista [2023]: 1.754.197.782,00 R$"
+        },
+        "territorio": {
+            "numero_municipios": "Número de municípios: 139 municípios",
+            "area_unidade_territorial": "Área da unidade territorial [2024]: 277.423,627 km²",
+            "area_urbanizada": "Área urbanizada [2019]: 553,49 km²"
+        }
+    }
+    }
+    }
+}

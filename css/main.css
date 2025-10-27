@@ -1,0 +1,184 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+
+html{
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+#btn-inverse i {
+  width: 80px;
+  height: 80px;
+  background: #e6361b;
+  border-radius: 40px;
+}
+
+#btn-plus i {
+  width: 80px;
+  height: 80px;
+  background: #e6361b;
+  border-radius: 40px;
+}
+
+.responsive-label {
+  font-size: clamp(20px, 5vw, 24px);
+}
+
+.navbar.navbar-expand{
+  background: #e6361b;
+  height: 75px;
+  width: 100%;
+  min-width: 100dvw;
+}
+
+.navbar .dropdown-toggle::after {
+    top: 15px;
+    right: 15px;
+    border: none;
+    content: "\f107";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    transition: .5s;
+    vertical-align: middle;
+    color: rgb(255, 255, 255);
+}
+
+.navbar .dropdown-toggle {
+  text-decoration: none;
+}
+
+.navbar .dropdown-toggle[aria-expanded=true]::after {
+    transform: rotate(-180deg);
+}
+
+#logo-flag {
+  width: 45px;
+  height: 45px;
+}
+
+#searchBox {
+  width: 90%;
+  box-shadow: none;
+}
+
+.navbar-expand .dropdown-menu.show {
+    border: none;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.swal2-timer-progress-bar {
+  background-color: #acfdac !important; 
+  bottom: 60px;
+  height: 5px !important;
+}
+
+.swal2-title-custom {
+  font-size: 25px !important;
+}
+
+.swal2-popup .swal2-text-custom {
+  font-size: 17px;
+}
+
+.swal2-popup {
+  padding-bottom: 50px !important; 
+}
+
+#mapaModal .modal-dialog {
+  max-width: 90%;
+  width: 70%;
+  height: 70%;
+}
+
+#mapaModal .modal-body img {
+  height: 40%;
+  width: 50%;
+}
+
+#mapaModal .modal-title {
+  font-weight: bold;
+}
+
+.info-span {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.estado-span {
+  color: #fff200;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px !important;
+    padding: 10px 15px;
+  }
+
+  #logo-flag {
+    width: 40px;
+    height: 40px;
+    margin-left: 0px;
+  }
+
+  .info-span {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+  .estado-span {
+    color: #fff200;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+  #searchBox {
+    display: none;
+  }
+
+  .botoes-nav {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+  }
+
+  .botoes-nav a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .botoes-nav a:not(:last-child) {
+    margin-right: 8px;
+  }
+
+  #mapaModal .modal-dialog {
+    width: 100%;
+    height: 100%;
+  }
+
+  #mapaModal .modal-body img {
+    height: 100%;
+    width: 100%;
+  }
+
+  #mapaModal .modal-title {
+    font-weight: bold;
+  }
+}
+
+ 

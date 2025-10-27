@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+    <title>infoEstados</title>
+</head>
+<body>
+   
+    <div class="container-fluid">
+     <div class="form-group">
+      <form action="#" id="form1" class="form1" style="display: block;">
+        <nav class="navbar navbar-expand sticky-top px-4 py-0 gap-5">
+          <div class="nav-item ms-0 d-flex align-items-center">
+              <img src="images/logo_icon.png" alt="logo-flag" id="logo-flag" class="mb-2">
+              <span translate="no" class="ms-3 info-span">Info</span>
+              <span translate="no" class="estado-span">Estados</span>
+          </div>
+            <div class="mx-auto d-flex justify-content-center" style="width: 100%;">
+              <form class="d-none d-md-flex form-search" style="width: 40%;">
+                <input class="form-control border-0 text-center" id="searchBox" type="search" placeholder="Search">
+              </form>
+            </div>
+              <div class="navbar-nav align-items-center ms-auto botoes-nav">
+                    <div class="nav-item map-div">
+                    <a href="#" class="nav-link d-flex align-items-center justify-content-center rounded-circle me-3 map-btn" data-bs-toggle="modal" data-bs-target="#mapaModal" style="width: 40px; height: 40px; background-color: white; color: black;">
+                      <img src="images/map_icon.png" alt="map-icon" id="map-icon" style="width: 26px;">
+                    </a>
+                    </div>
+                  <div class="nav-item dropdown">
+                    <a href="#" class="nav-link d-flex align-items-center justify-content-center rounded-circle me-2 dados-btn" data-bs-toggle="dropdown" style="width: 40px; height: 40px; background-color: white; color: black;">
+                      <img class="" src="images/data_icon.png" alt="data-icon" id="data-icon" style="width: 26px;">
+                    </a>
+                    <div class="dropdown-menu-end dropdown-menu">
+                      <a href="https://cidades.ibge.gov.br/" class="dropdown-item">
+                        <div class="d-flex align-items-center">
+                          <div class="ms-2">
+                              <h6 class="fw-normal mb-0">IBGE</h6>
+                              <small>Dados dos estados e cidades do Brasil.</small>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+              <div class="nav-item dropdown">
+                  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
+                    <img class="rounded-circle me-2" src="images/account_icon.png" alt="" style="width: 40px; height: 40px; background-color: white;">
+                  </a>
+              <div class="dropdown-menu-end dropdown-menu">
+                  <a href="#" type="button" class="dropdown-item" data-bs-toggle="modal" data-bs-target = "#sobreModal" id="sobre"><i class="fa fa-info-circle me-3"></i>Sobre</a>
+                  <a href="#" type="button" class="dropdown-item" id="deletar"><i class="fa fa-times-circle me-3"></i>Deletar conta</a>
+                  <a href="#" type="button" class="dropdown-item" id="sair"><i class="fa fa-sign-out-alt me-3"></i>Sair</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+
+            <div id="div-desenho"></div>
+
+        <div class="modal fade" id="sobreModal" tabindex="-1" aria-labelledby="sobreModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="sobreModalLabel">Sobre</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+            </div>
+            <div class="modal-body" id="textModal">
+              Esta página web foi desenvolvida como um projeto de estudo sobre HTML5, CSS e JavaScript. O banco de dados utilizado para a autenticação dos usuários e para o armazenamento de informações foi o <a href="https://firebase.google.com/">Firebase</a>. As chaves privadas, assim como o código em C para a ordenação de listas de strings, foram hospedados em um servidor Node.js com Express, que está em execução no <a href="https://render.com/">Render</a>.
+            </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="infoModalLabel" style="font-weight: bold; color: rgb(202, 116, 2);">Informações sobre o estado selecionado</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+              </div>
+              <div class="modal-body">
+              <h6 id="subtitleModal" class="text-muted mb-3" style="font-weight: bolder; font-size: xx-large; gap: 50px;" ></h6>
+              <h1 style="font-size: x-large; text-decoration: underline;">Informações: </h1>
+              <p id="textInfoModal" style="font-style: italic;"></p>
+              <p id="textCapitalModal" style="font-style: italic;"></p>
+              <p id="textGovernadorModal" style="font-style: italic;"></p>
+              <h2 style="font-size: x-large; text-decoration: underline;">População: </h2>
+              <p id="textPopulacaoUltimoCensoModal" style="font-style: italic;"></p>
+              <p id="textPopulacaoEstimadaModal" style="font-style: italic;"></p>
+              <p id="textDensidadeDemograficaModal" style="font-style: italic;"></p>
+              <p id="textTotalDeVeiculosModal" style="font-style: italic;"></p>
+              <h3 style="font-size: x-large; text-decoration: underline;">Educação: </h3>
+              <p id="textIdebAnosIniciaisModal" style="font-style: italic;"></p>
+              <p id="textIdebAnosFinaisModal" style="font-style: italic;"></p>
+              <p id="textMatriculasFudamentalModal" style="font-style: italic;"></p>
+              <p id="textMatriculasEnsinoMedioModal" style="font-style: italic;"></p>
+              <p id="textDocentesEnsinoFundamentalModal" style="font-style: italic;"></p>
+              <p id="textDocentesEnsinoMedioModal" style="font-style: italic;"></p>
+              <p id="textNumeroEstabelecimentoFundamentalModal" style="font-style: italic;"></p>
+              <p id="textNumeroEstabelecimentoMedioModal" style="font-style: italic;"></p>
+              <h4 style="font-size: x-large; text-decoration: underline;">Trabalho e Rendimento: </h4>
+              <p id="textRendimentoNominalModal" style="font-style: italic;"></p>
+              <p id="textPessoas16oumaisOcupadasSemanaReferenciaModal" style="font-style: italic;"></p>
+              <p id="textPessoas16oumaisTrabalhoFormalModal" style="font-style: italic;"></p>
+              <p id="textPessoas14oumaisOcupadasSemanaReferenciaModal" style="font-style: italic;"></p>
+              <p id="textRendimentoRealMedioModal" style="font-style: italic;"></p>
+              <p id="textPessoalOcupadoAdministracaoModal" style="font-style: italic;"></p>
+              <h5 style="font-size: x-large; text-decoration: underline;">Economia: </h5>
+              <p id="textIndiceDesenvolvimentoHumanoModal" style="font-style: italic;"></p>
+              <p id="textTotalReceitaBrutaModal" style="font-style: italic;"></p>
+              <p id="textTotalReceitaEmpenhadasModal" style="font-style: italic;"></p>
+              <p id="textNumeroAgenciaModal" style="font-style: italic;"></p>
+              <p id="textDepositosPrazoModal" style="font-style: italic;"></p>
+              <p id="textDepositosVistaModal" style="font-style: italic;"></p>
+              <h6 style="font-size: x-large; text-decoration: underline;">Territorio: </h6>
+              <p id="textNumeroMunicipiosModal" style="font-style: italic;"></p>
+              <p id="textAreaUnidadeTerritorialModal" style="font-style: italic;"></p>
+              <p id="textAreaUrbanizadaModal" style="font-style: italic;"></p>
+            </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal fade" id="mapaModal" tabindex="-1" aria-labelledby="mapaModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-fullscren">
+            <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="mapaModalLabel">Mapa do Brasil</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+            </div>
+            <div class="modal-body d-flex justify-content-center align-items-center" id="mapaModalBody">
+              <img src="images/mapa_brasil.png" alt="mapa-brasil-icon" class="img-fluid">
+            </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="d-flex flex-column position-fixed end-0 botoes-fixo" style="bottom: 20px; right: 40px; gap: 15px;">
+          <a href="#" type="button" id="btn-inverse" style="text-decoration: none;">
+            <i class="fas fa-exchange-alt d-flex align-items-center justify-content-center me-4" style="font-size: 25px; color: rgb(255, 255, 255);"></i>
+          </a>
+          <a href="#" type="button" id="btn-plus" style="text-decoration: none;">
+            <i class="fas fa-plus d-flex align-items-center justify-content-center me-4" style="font-size: 25px; color: rgb(255, 255, 255);"></i>
+          </a>
+        </div>
+      </form>
+      </div>
+     </div>
+    
+     <div class="form-group">
+      <form action="#" id="form2" style="display: none;">
+        <div class="row align-items-center justify-content-center g-5 mt-5 mb-5 vh-75">
+          <label class="form-label w-75 bg-info p-3"><i class="fa fa-question-circle me-2"></i> Vamos te mostrar dados sobre o estado escolhido.</label>
+            <div class="alert alert-danger w-75" id="alert-danger" role="alert" style="display: none;">
+              Escolha um estado para continuar.
+            </div>
+          <select name="estados" id="estados" class="form-select w-75">
+            <option value="">Selecione um estado</option>
+            <option value="ac">Acre</option>
+            <option value="al">Alagoas</option>
+            <option value="ap">Amapá</option>
+            <option value="am">Amazonas</option>
+            <option value="ba">Bahia</option>
+            <option value="ce">Ceará</option>
+            <option value="df">Distrito Federal</option>
+            <option value="es">Espírito Santo</option>
+            <option value="go">Goiás</option>
+            <option value="ma">Maranhão</option>
+            <option value="mt">Mato Grosso</option>
+            <option value="ms">Mato Grosso do Sul</option>
+            <option value="mg">Minas Gerais</option>
+            <option value="pa">Pará</option>
+            <option value="pb">Paraíba</option>
+            <option value="pr">Paraná</option>
+            <option value="pe">Pernambuco</option>
+            <option value="pi">Piauí</option>
+            <option value="rj">Rio de Janeiro</option>
+            <option value="rn">Rio Grande do Norte</option>
+            <option value="rs">Rio Grande do Sul</option>
+            <option value="ro">Rondônia</option>
+            <option value="rr">Roraima</option>
+            <option value="sc">Santa Catarina</option>
+            <option value="sp">São Paulo</option>
+            <option value="se">Sergipe</option>
+            <option value="to">Tocantins</option>
+          </select>
+            <a href="#" id="btn-adicionar" class="btn btn-dark w-75">Adicionar</a>
+        </div>
+      </form>
+     </div>
+
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+   <script type="module" src = "js/main.js"></script>
+
+</body>    
+</html>
