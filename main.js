@@ -230,7 +230,8 @@
   const btnPlus = document.getElementById("btn-plus");
   const btnInverse = document.getElementById("btn-inverse");
 
-  document.getElementById("btn-adicionar").addEventListener("click", function(){
+  if(form2) {
+    document.getElementById("btn-adicionar").addEventListener("click", function(){
     const divId = document.getElementById("estados").options[document.getElementById("estados").selectedIndex].text;
     if(document.getElementById(divId)){
       desenharAlertaX("Você já adicionou este estado.", "Oops...");
@@ -251,9 +252,10 @@
       estadoSelect = document.getElementById("estados").options[document.getElementById("estados").selectedIndex].text;
       desenharEstadoDiv(estadoSelect);
       setTimeout(() => chamadaApiOrdenar(), 100);
+    }
+    });
   }
-  }); 
-
+   
   document.getElementById("searchBox").addEventListener("keyup", function(event) {
     const termo = event.target.value.toLowerCase().trim();
     const botoes = document.querySelectorAll("#div-desenho button");
