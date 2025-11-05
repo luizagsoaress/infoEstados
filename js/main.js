@@ -95,6 +95,10 @@
     });
     
     const estados = await res.json();
+    if (!Array.isArray(estados)) {
+    console.error("Resposta inesperada:", estados);
+    return;
+    }
     const divDesenho = document.getElementById("div-desenho");
     if(divDesenho != null){
       divDesenho.innerHTML = '';
