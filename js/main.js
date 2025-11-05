@@ -96,7 +96,7 @@
     
     const estados = await res.json();
     if (!Array.isArray(estados)) {
-    console.error("Resposta inesperada:", estados);
+    console.log("Resposta inesperada:", estados);
     return;
     }
     const divDesenho = document.getElementById("div-desenho");
