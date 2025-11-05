@@ -84,8 +84,6 @@
     const authUrl = `https://github.com/login/oauth/authorize?client_id=${clientId}&redirect_uri=${redirectUri}&scope=user:email`;
     window.open(authUrl, "_blank", "width=500,height=600"); 
 
-    const popup = window.open(authUrl, "_blank", "width=500,height=600"); 
-
     window.addEventListener("message", (event) => {
       if (event.origin !== "http://localhost:8080") return; 
       const data = event.data;
@@ -96,7 +94,6 @@
       }
     });
   }
-
 
   document.querySelector(".github").addEventListener("click", function(event) {
   event.preventDefault();

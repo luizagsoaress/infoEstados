@@ -96,8 +96,9 @@
     
     const estados = await res.json();
     const divDesenho = document.getElementById("div-desenho");
-    divDesenho.innerHTML = '';
-
+    if(divDesenho != null){
+      divDesenho.innerHTML = '';
+    }
     estados.forEach((e) => {
     desenharEstadoDiv(e.estado, e.id);
     });
