@@ -72,4 +72,4 @@ Para editar seus dados ou deletar sua conta, clique no avatar e selecione **Minh
 
 ## Acesse
 
-> [Acesse aqui](./)
+> [Acesse aqui](https://luizagsoaress.github.io/InfoEstados/)
